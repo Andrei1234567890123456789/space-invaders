@@ -6,5 +6,6 @@ int main(){
     able to type the inputs through the console using std::cin */
     /*game.run();*/
      game.runManualInput();
+    // ебат я лох
     return 0;
 }
