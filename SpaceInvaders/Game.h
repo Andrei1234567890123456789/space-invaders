@@ -28,7 +28,7 @@ public:
     std::ostream & render(std::ostream & out)const;
 
     private:
-        const int DEFAULT_ROWS = 27;
+        const int DEFAULT_ROWS = 20;
         const int DEFAULT_COLS = 36;
         Player * player;
         GameObject *** field; //matrix of pointers to GameObject
